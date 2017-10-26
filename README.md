@@ -1,4 +1,7 @@
 # narvd444_dtOF_2017
+Week 8 MIDTERM.Readme File
+The midterm is a basic application, also inspired by the Pixar Movie "UP". The Goal is to take the house to the top of the cliff (right on top of the waterfall) by adding and exploding balloons (position y is being affected by gravity and liftForce). It's also possible to change direction by tapping the arrows, or explode all balloons at once by tapping "k".
+
 Week 5 Homework UPDATE. Readme File
 This is the Update of Week #5. In this week, I created an animation inspired by the "titles" of the Pixar Logo.
 I animated the Pixar Lamp "Luxo" to jump throughout the screen. In this case I used a png image. Originally I created the lamp itself in openFramworks using ofVertex + ofDrawLine; but I found it really hard to control with variables. In contrast, for the png file, I just had the variables of position, width and height.
