@@ -1,0 +1,8 @@
+storm-weather
+windy-weather
+rain-snow
+rainy-weather
+snow-weather
+cloudy-weather
+partly-cloudy
+clear
